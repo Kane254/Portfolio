@@ -10,10 +10,10 @@ function Projects() {
       link: "https://github.com/Kane254/Taxi-Project.git"
     },
     {
-      title: "Weather Dashboard",
-      description: "Fetches live weather data using a third-party API.",
-      tags: ["React", "REST API", "CSS"],
-      link: "https://github.com/yourusername/weather"
+      title: "Dummy AI Tool",
+      description: "A simple AI tool that demonstrates basic machine learning concepts.",
+      tags: ["React", "JavaScript", "CSS", "API"],
+      link: "https://github.com/Kane254/Kanes-GP.git"
     }
   ];
 
@@ -27,6 +27,7 @@ function Projects() {
       </div>
     </section>
   );
+  
 }
 
 export default Projects;

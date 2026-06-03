@@ -3,7 +3,7 @@ import React from 'react';
 
 function About() {
   const skillCategories = [
-    { title: "Frontend", skills: ["React", "JavaScript (ES6+)", "HTML5 / CSS3", "Tailwind CSS"] },
+    { title: "Frontend", skills: ["React", "JavaScript", "HTML", "Tailwind CSS"] },
     { title: "Backend & Tools", skills: ["Node.js", "Express", "Git & GitHub", "REST APIs"] },
     { title: "Design/Other", skills: ["Figma", "UI/UX Fundamentals", "Agile/Scrum"] }
   ];
